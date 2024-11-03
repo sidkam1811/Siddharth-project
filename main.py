@@ -29,3 +29,6 @@ for k in range(20):
         p.data += -0.1 * p.grad 
 
     print(k, loss.data)
+
+    # done here
+    
